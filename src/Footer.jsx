@@ -7,7 +7,7 @@ const Footer = () => {
     <footer className="bg-gray-800 text-white py-4">
       <div className="container mx-auto flex justify-between items-center">
         <div className="text-sm">
-          © {new Date().getFullYear()} Smu Alternative. All rights reserved.
+          © {new Date().getFullYear()} Dev name: Fahim Faysal. All rights reserved.
         </div>
         <div className="flex space-x-4">
           <a href="https://facebook.com" target="_blank" rel="noopener noreferrer">
