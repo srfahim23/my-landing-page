@@ -2,7 +2,7 @@ import { useState } from "react";
 import "./App.css";
 import Hero from "./Hero";
 import ProfileCard from "./ProfileCard";
-import Navbar from "./NavBar";
+import Navbar from "./Navbar";
 import ProductCard from "./ProductCard";
 import ProductGrid from "./ProductGrid";
 import Skills from "./Skills"
